@@ -1,0 +1,3 @@
+Esse exercício é uma continuação do anterior, só que agora ele exige verificar se a frase pode se tornar um palíndromo ao remover uma letra. Achei mais complexo, pois precisei ajustar a lógica e criar uma função que verifique todas as possibilidades de remoção de uma letra.
+
+Além disso, percebi que estava misturando HTML e PHP no mesmo arquivo, o que prejudica a organização. Separei os arquivos para uma melhor visualização e gestão.

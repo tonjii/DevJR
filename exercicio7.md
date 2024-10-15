@@ -1,0 +1,1 @@
+O último exercício foi mais direto, usando operações matemáticas e condicionais simples (else, if, elseif). Ele não apresentou muita dificuldade e foi concluído em cerca de 30 minutos com algumas pesquisas.
